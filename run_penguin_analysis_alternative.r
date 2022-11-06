@@ -16,8 +16,6 @@
 ##
 ## ---------------------------
 
-setwd("/Users/lfrance/Library/CloudStorage/OneDrive-TheAlanTuringInstitute/004_REG/001_Teaching/R_teaching/PenguinProject/")
-
 # Load the packages
 
 library(palmerpenguins)
@@ -28,7 +26,6 @@ library(tidyr)
 library(ragg)
 library(svglite)
 
-getwd()
 # ----------------------------------------------------------------------------------
 # ----------------------------------------------------------------------------------
 # ----------------------------------------------------------------------------------
