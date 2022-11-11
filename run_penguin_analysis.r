@@ -15,12 +15,17 @@
 ##
 ## ---------------------------
 
-setwd("/Users/lfrance/Documents/R_teaching/PenguinProject/")
-# Load the packages
-source("functions/packages.r")
-
 # ---------------------------
-# Load functions
+# Initial Setup
+# ---------------------------
+
+# Set the working directory -- where R will look for files and folders. 
+setwd("/Users/lfrance/Documents/R_teaching/PenguinProject/")
+
+# Load the libraries from my file. 
+source("functions/libraries.r")
+
+# Load functions from my files
 source("functions/cleaning.r")
 source("functions/plotting.r")
 
@@ -37,10 +42,14 @@ penguins_raw <- read.csv("data_raw/penguins_raw.csv")
 # Fix the column names, remove empty rows, remove columns called comment and delta
 penguins_clean <- cleaning(penguins_raw)
 
-# Save the cleaned data with the current date
-date = Sys.Date() 
-filename = paste("/data/", date, "_penguins_clean.csv",sep="")
+# Save the cleaned data
 write.csv(penguins_clean, "data_clean/penguins_clean.csv")
+
+# Optional: save with current date in the title
+# date = Sys.Date() 
+# filename = paste("data_clean/", date, "_penguins_clean.csv",sep="") # e.g. "data_clean/2022-11-06_penguins_clean.csv"
+# write.csv(penguins_clean, filename)
+
 
 # Subset the data and remove the penguins with NA flipper length
 penguins_flippers <- remove_empty_flipper_length(penguins_clean)
