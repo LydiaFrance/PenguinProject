@@ -15,7 +15,7 @@
 ##
 ## ---------------------------
 
-setwd("/Users/lfrance/Library/CloudStorage/OneDrive-TheAlanTuringInstitute/004_REG/001_Teaching/R_teaching/PenguinProject/")
+setwd("/Users/lfrance/Documents/R_teaching/PenguinProject/")
 # Load the packages
 source("functions/packages.r")
 
