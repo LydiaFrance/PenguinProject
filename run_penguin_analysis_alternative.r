@@ -26,6 +26,10 @@ library(tidyr)
 library(ragg)
 library(svglite)
 
+# Set working directory 
+
+setwd("/Users/lfrance/Documents/R_teaching/PenguinProject/")
+
 # ----------------------------------------------------------------------------------
 # ----------------------------------------------------------------------------------
 # ----------------------------------------------------------------------------------
@@ -34,6 +38,7 @@ library(svglite)
 # Define Functions
 # ---------------------------
 
+# ---- Cleaning --------------
 
 # Clean column names, remove empty rows, remove columns called comment and delta
 cleaning <- function(data_raw){
@@ -51,6 +56,8 @@ remove_empty_flipper_length <- function(data_clean){
     select(species, flipper_length_mm)
 }
 
+# ---- Plots --------------
+
 # Plot the flipper length as a boxplot of species
 plot_flipper_figure <- function(penguins_flippers){
   penguins_flippers %>% 
@@ -64,6 +71,8 @@ plot_flipper_figure <- function(penguins_flippers){
          y = "Flipper length (mm)") +
     theme_bw()
 }
+
+# ---- Saving --------------
 
 # Save the plot as a png and define the size, resolution, and scaling
 save_flipper_plot_png <- function(penguins_flippers, filename, size, res, scaling){
@@ -94,7 +103,7 @@ save_flipper_plot_svg <- function(penguins_flippers, filename, size, scaling){
 # Load the data
 # ---------------------------
 
-penguins_raw <- read.csv("/data_raw/penguins_raw.csv")
+penguins_raw <- read.csv("data_raw/penguins_raw.csv")
 
 # ---------------------------
 # Clean the data
@@ -103,10 +112,8 @@ penguins_raw <- read.csv("/data_raw/penguins_raw.csv")
 # Fix the column names, remove empty rows, remove columns called comment and delta
 penguins_clean <- cleaning(penguins_raw)
 
-# Save the cleaned data with the current date
-date = Sys.Date() 
-filename = paste("/data/", date, "_penguins_clean.csv",sep="")
-write.csv(penguins_clean, "PenguinProject/data_clean/penguins_clean.csv")
+# Save the cleaned data
+write.csv(penguins_clean, "data_clean/penguins_clean.csv")
 
 # Subset the data and remove the penguins with NA flipper length
 penguins_flippers <- remove_empty_flipper_length(penguins_clean)
