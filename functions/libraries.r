@@ -5,5 +5,3 @@ suppressPackageStartupMessages(library(dplyr))
 library(tidyr)
 library(ragg)
 library(svglite)
-
-options(repr.plot.width = 4, repr.plot.height = 4, repr.plot.res = 300)
