@@ -12,7 +12,7 @@ This GitHub repository contains an example R folder and subfolders, feel free to
 
 ## Appendix: [How to Upload and Download Subfolders from Github](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/extra_tutorials/github_tutorial.md)
 
-## Appendix: [How to Upload a Single Assignment File])https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/AssignmentExample/example_assignment.md)
+## Appendix: [How to Upload a Single Assignment File](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/AssignmentExample/example_assignment.md)
 
 ### [Please see this file](https://github.com/LydiaFrance/PenguinProject/blob/main/run_penguin_analysis_alternative.r) to find all the code from all the notebooks in a single R script.
 
