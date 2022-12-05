@@ -8,6 +8,8 @@ This GitHub repository contains an example R folder and subfolders, feel free to
 
 ## Lesson 02: [Figures Plus Assignment](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/lesson_notebook02_figures.ipynb) 
 
+## Assignment Template: [Example using html from rmd](https://htmlpreview.github.io/?https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/AssignmentExample/ExampleAssignment.html)
+
 ## Appendix: [How to Make a Boxplot](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/lesson_notebook03_figure_instructions.ipynb) 
 
 ## Appendix: [How to Upload and Download Subfolders from Github](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/extra_tutorials/github_tutorial.md)
