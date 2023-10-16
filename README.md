@@ -8,9 +8,12 @@ This GitHub repository contains an example R folder and subfolders, feel free to
 
 ## Lesson Part 02: [Figures](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/lesson_notebook02_figures.ipynb) 
 
-## Assignment: [Questions](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/homework_template.pdf)
+## Assignment: [Questions](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/Assignment/assignment_template.pdf)
 
-## Assignment Write Up: [Use This Template](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/homework_template.Rmd) Please hand in PDF or html of your .rmd. Feel free to use Quarto if you prefer. 
+## Assignment: [Write Up Template](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/Assignment/assignment_template.Rmd) 
+
+### Please hand in PDF or html of your .rmd. 
+### Feel free to use Quarto if you prefer. 
 
 ## Appendix: [How to Make a Boxplot](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/lesson_notebook03_figure_instructions.ipynb) 
 
