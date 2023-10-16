@@ -13,7 +13,8 @@
 ## ---------------------------
 ##
 ## Notes:
-##   
+##   Feel free to use this script to load the libraries you need for your project.
+##   In your own script, you use the source("functions/libraries.r") function to load this script.
 ##
 ## ---------------------------
 

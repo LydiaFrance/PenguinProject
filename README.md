@@ -4,18 +4,22 @@
 
 This GitHub repository contains an example R folder and subfolders, feel free to look through. The code here has been written to demonstrate reproducible, reuseable code.
 
-## Lesson 01: [Data Pipelines](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/lesson_notebook01_intro_cleaning.ipynb) 
+## Lesson Part 01: [Data Pipeline](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/lesson_notebook01_recapProjects.ipynb) 
 
-## Lesson 02: [Figures Plus Assignment](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/lesson_notebook02_figures.ipynb) 
+## Lesson Part 02: [Figures](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/lesson_notebook02_figures.ipynb) 
 
-## Assignment Template: [Example using html from rmd](https://htmlpreview.github.io/?https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/AssignmentExample/ExampleAssignment.html)
+## Assignment: [Questions](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/Assignment/assignment_template.pdf)
 
-## Appendix: [How to Make a Boxplot](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/lesson_notebook03_figure_instructions.ipynb) 
+## [Use this Template for your Assignment](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/Assignment/assignment_template.Rmd) 
 
-## Appendix: [How to Upload and Download Subfolders from Github](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/extra_tutorials/github_tutorial.md)
+Please hand in PDF or html of your .rmd. 
+Feel free to use Quarto if you prefer. 
 
-## Appendix: [How to Upload a Single Assignment File](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/AssignmentExample/example_assignment.md)
+## Appendix: [How to Make and Customise a Boxplot](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/extra_tutorials/figure_tutorial.ipynb) 
 
-### [Please see this file](https://github.com/LydiaFrance/PenguinProject/blob/main/run_penguin_analysis_alternative.r) to find all the code from all the notebooks in a single R script.
+## Appendix: [How to Upload and Download Subfolders from Github](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/extra_tutorials/github_tutorial.md)
 
-### [Please see this file](https://github.com/LydiaFrance/PenguinProject/blob/main/run_penguin_analysis_alternative.r) to find all the code from all the notebooks in an R script that calls for files you can find above in `functions/` or [click here](https://github.com/LydiaFrance/PenguinProject/tree/main/functions).
+
+### [Please see this file](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/PenguinProjectExample/run_penguin_analysis.R) to find all the code from all the notebooks in a single R script.
+
+### The script calls functions from files in this folder `functions/` [click here](https://github.com/LydiaFrance/Reproducible_Figures_R/tree/lessons/PenguinProjectExample/functions).
