@@ -8,7 +8,7 @@ This GitHub repository contains an example R folder and subfolders, feel free to
 
 ## Lesson Part 02: [Figures](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/lesson_notebook02_figures.ipynb) 
 
-## Assignment Questions: [Use This Template](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/homework_template.Rmd)
+## Assignment: [Questions](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/homework_template.pdf)
 
 ## Assignment Write Up: [Use This Template](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/homework_template.Rmd) Please hand in PDF or html of your .rmd. Feel free to use Quarto if you prefer. 
 
