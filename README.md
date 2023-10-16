@@ -6,7 +6,7 @@ This GitHub repository contains an example R folder and subfolders, feel free to
 
 ## Lesson Part 01: [Data Pipeline](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/lesson_notebook01_recapProjects.ipynb) 
 
-## Lesson Part 02: [Figures](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/lesson_notebook02_figures.ipynb) 
+## Lesson Part 02: [Figures](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/figure/lesson_notebook02_figures.ipynb) 
 
 ## Assignment: [Questions](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/Assignment/assignment_template.pdf)
 
