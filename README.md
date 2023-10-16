@@ -15,9 +15,9 @@ This GitHub repository contains an example R folder and subfolders, feel free to
 Please hand in PDF or html of your .rmd. 
 Feel free to use Quarto if you prefer. 
 
-## Appendix: [How to Make a Boxplot](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/lesson_notebook03_figure_instructions.ipynb) 
+## Appendix: [How to Make and Customise a Boxplot](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/extra_tutorials/figure_tutorial.ipynb) 
 
-## Appendix: [How to Upload and Download Subfolders from Github](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/extra_tutorials/github_tutorial.md)
+## Appendix: [How to Upload and Download Subfolders from Github](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/extra_tutorials/github_tutorial.md)
 
 
 ### [Please see this file](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/PenguinProjectExample/run_penguin_analysis.R) to find all the code from all the notebooks in a single R script.
