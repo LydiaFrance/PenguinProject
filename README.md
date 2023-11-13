@@ -15,6 +15,8 @@ This GitHub repository contains an example R folder and subfolders, feel free to
 Please hand in PDF or html of your .rmd. 
 Feel free to use Quarto if you prefer. 
 
+[Check the FAQ here](https://canvas.ox.ac.uk/courses/205309/discussion_topics/605332) if you have any questions.
+
 ## Appendix: [How to Make and Customise a Boxplot](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/extra_tutorials/figure_tutorial.ipynb) 
 
 ## Appendix: [How to Upload and Download Subfolders from Github](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/extra_tutorials/github_tutorial.md)
