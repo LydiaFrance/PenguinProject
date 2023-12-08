@@ -12,7 +12,7 @@ This GitHub repository contains an example R folder and subfolders, feel free to
 
 ## [Use this Template for your Assignment](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/Assignment/assignment_template.Rmd) 
 
-Please hand in PDF or html of your .rmd. 
+Please hand in PDF or html. 
 Feel free to use Quarto if you prefer. 
 
 [Check the FAQ here](https://canvas.ox.ac.uk/courses/205309/discussion_topics/605332) if you have any questions.
