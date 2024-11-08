@@ -3,10 +3,11 @@
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" alt="Drawing" style="width: 400px;"/>
 
 This GitHub repository contains an example R folder and subfolders, feel free to look through. The code here has been written to demonstrate reproducible, reuseable code.
+Remember, there is code inside the `functions` folder that is used in the main script, so look for the code there. 
 
-## Lesson Part 01: [Data Pipeline](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/lesson_notebook01_recapProjects.ipynb) 
+## Lesson Part 01: [Cleaning Data and Keeping it Safe](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/newMT2024/lesson_notebook01_goodcoding.ipynb) 
 
-## Lesson Part 02: [Figures](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/overview/lesson_notebook02_figures.ipynb)
+## Lesson Part 02: [Figures and Saving](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/newMT2024/lesson_notebook02_goodfigures.ipynb)
 
 ## Assignment: [Questions](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/Assignment/assignment_template.pdf)
 
@@ -15,12 +16,5 @@ This GitHub repository contains an example R folder and subfolders, feel free to
 Please hand in PDF or html. 
 Feel free to use Quarto if you prefer. 
 
-[Check the FAQ here](https://canvas.ox.ac.uk/courses/205309/discussion_topics/605332) if you have any questions.
-
-## Appendix: [How to Make and Customise a Boxplot](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/extra_tutorials/figure_tutorial.ipynb) 
-
-## Appendix: [How to Upload and Download Subfolders from Github](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/recap_lessons/extra_tutorials/github_tutorial.md)
-
-### [Please see this file](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/lessons/PenguinProjectExample/run_penguin_analysis.R) to find all the code from all the notebooks in a single R script.
-
-### The script calls functions from files in this folder `functions/` [click here](https://github.com/LydiaFrance/Reproducible_Figures_R/tree/lessons/PenguinProjectExample/functions).
+In the assignment, you will need to upload your work to GitHub. Instructions are available for using Github through RStudio, but if it is not working, use the following instructions instead which require no installation on your computer:
+### [Alternative for Uploading to GitHub](https://github.com/LydiaFrance/Reproducible_Figures_R/blob/newMT2024/extra_tutorials/github_tutorial.md)
